@@ -1,0 +1,82 @@
+
+[
+    {
+        "recipe_id": 0,
+        "recipe_title": "Crock Pot Roast",
+        "recipe_category": "main",
+        "recipe_ingredients": "beef roast 1,brown gravy mix 1, dried Italian salad dressing mix 1 package, dry ranch dressing mix 1/2 spoon, water 1 cup",
+        "steps":
+            "Place beef roast in crock pot.Mix the dried mixes together in a bowl and sprinkle over the roast.Pour the water around the roast.Cook on low for 7-9 hours.",
+        
+        "imageURL": "https://www.jocooks.com/wp-content/uploads/2018/11/crock-pot-roast-1-5.jpg",
+        "likes": 0
+    },
+    {
+        "recipe_id": 1,
+        "recipe_title": "Roasted Asparagus",
+        "recipe_category": "main",
+        "recipe_ingredients":"asparagus 1 lb, olive oil 1/2 tbsp,kosher salt 1/2 tsp",
+        "steps": "Preheat oven to 425°F.Cut off the woody bottom part of the asparagus spears and discard.Place asparagus on foil-lined baking sheet and drizzle with olive oil.Sprinkle with salt.With your hands, roll the asparagus around until they are evenly coated with oil and salt.Roast for 10-15 minutes, depending on the thickness of your stalks and how tender you like them.They should be tender when pierced with the tip of a knife.The tips of the spears will get very brown but watch them to prevent burning.They are great plain, but sometimes I serve them with a light vinaigrette if we need something acidic to balance out our meal.",
+        
+        "imageURL": "https://hips.hearstapps.com/del.h-cdn.co/assets/18/09/1519653347-delish-roasted-asparagus-1.jpg",
+        "likes": 7
+    },
+    {
+        "recipe_id": 2,
+        "recipe_title": "Curried Lentils and Rice",
+        "recipe_category": "main",
+        "recipe_ingredients": "beef broth,dried green lentils 1 cup,basmati rice 1 cup,curry powder 1 tbsp,salt 1 tbsp",
+              
+        "steps": "Bring broth to a low boil.Add curry powder and salt.Cook lentils for 20 minutes.Add rice and simmer for 20 minutes.Enjoy!",
+        
+        "imageURL": "https://detoxinista.com/wp-content/uploads/2017/03/instant-pot-red-lentil-curry.jpg",
+        "likes": 0
+    },
+    {
+        "recipe_id": 3,
+        "recipe_title": "Big Night Pizza",
+        "recipe_category": "main",
+        "recipe_ingredients":
+                "yeast 2,flour 5 cupa,vegetable oil 4,sugar,salt,hot water,pizza sauce,mozzarella cheese",
+               
+        "steps": "Add hot water to yeast in a large bowl and let sit for 15 minutes. Mix in oil, sugar, salt, and flour and let sit for 1 hour.Knead the dough and spread onto a pan.Spread pizza sauce and sprinkle cheese.Add any optional toppings as you wish.Bake at 400 deg Fahrenheit for 15 minutes.Enjoy!",
+        
+        "imageURL": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Bacon-and-Spinach-Pizza_EXPS_SDON16_107130_D06_07_6b-696x696.jpg",
+        "likes": 11
+    },
+    {
+        "recipe_id": 4,
+        "recipe_title": "Avocado Toast",
+        "recipe_category": "easy",
+        "recipe_ingredients":
+                "1 ripe avocado, ½ lemon ,big pinch chilli flakes,2 slices sourdough breadgood drizzle extra virgin olive oil",
+               
+        "steps": "Cut the avocado in half and carefully remove its stone, then scoop out the flesh into a bowl. Squeeze in the lemon juice then mash with a fork to your desired texture. Season to taste with sea salt, black pepper and chilli flakes. Toast your bread, drizzle over the oil then pile the avocado on top.Enjoy!",
+        
+        "imageURL": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2018/03/avocado-on-toast.jpg?itok=yV6yyvoX",
+        "likes": 5
+    },
+    {
+        "recipe_id": 5,
+        "recipe_title": "Curried carrot soup with cashew",
+        "recipe_category": "soup",
+        "recipe_ingredients":
+                "2 tbsp rapeseed oil 1 tsp fenugreek seeds, 2 tsp cumin seeds,2 tsp coriander seeds,8 green cardamom pods,3 onions 1.2kg carrots,4 tomatoes,1 tsp turmeric",
+               
+        "steps": "Heat the oil in a pan. Add the seeds and cardamom, and cook until they start to sizzle. Tip in the onion and carrot, and fry for a few mins until colouring and fragrant, then add the tomatoes, ginger, chilli, spices and 2 tsp salt, and cook for another 8-10 mins, stirring occasionally.Add the stock, bring to the boil, then simmer for 40 mins until the carrots are really tender. Leave to cool slightly, then blend to a smooth soup. Add the lemon juice and some seasoning to taste. Return to the pan, add the milk and warm through. Serve topped with our cashew & coriander salsa and spring onion.Enjoy!",
+        
+        "imageURL": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/11/curried-carrot-soup-with-cashew-coriander-salsa_0.jpg?itok=OhqyVroJ",
+        "likes": 2
+    },
+    {"recipe_id": 6,
+        "recipe_title": "Vegan carrot cake",
+        "recipe_category": "dessert",
+        "recipe_ingredients":
+                "250ml jar coconut oil, melted 300g light brown sugar 1 tsp vanilla essence 210ml, dairy free milk,420g plain flour 1 tsp baking powder,1 tsp ground nutmeg,1 orange,4 medium carrots,75g chopped walnuts, 50g icing sugar",
+               
+        "steps": "Heat the oven to 180C/160C fan/gas mark 4. Grease 2 x 20cm cake tins with a little of the melted coconut oil and line the bases with baking parchment. Whisk together the oil and sugar, then add the vanilla and milk. Combine the flour, baking powder, bicarbonate of soda, spices and orange zest in a separate bowl. Add these to the wet mixture and stir well. Finally stir in the carrot and the nuts. Divide the mixture between the prepared tins and bake for 25-30 mins until a skewer inserted into the middle of the cake comes out cleanly. Cool in the tin for 5 mins before transferring to a wire rack to cool completely.Enjoy!",
+        
+        "imageURL": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/04/carrot.jpg?itok=aezSgM4c",
+        "likes": 4
+    }
+]
